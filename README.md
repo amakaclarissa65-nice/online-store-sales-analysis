@@ -1,3 +1,6 @@
+This project demonstrates my ability to use SQL to analyze business data, answer real-world questions, and generate actionable insights for decision-making.
+
+
 # Online Store Sales Analysis
 
 ## Project Overview
